@@ -46,6 +46,7 @@
     <Compile Include="1-NewKeyword.cs" />
     <Compile Include="3-InheritanceEx1.cs" />
     <Compile Include="4-InheritanceEx2.cs" />
+    <Compile Include="GEInheritanceQ.cs" />
     <Compile Include="InheritenceEx3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="YieldEx.cs" />
